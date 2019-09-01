@@ -13,10 +13,10 @@ public class TestDemo {
     public   void testadd(){
 
         if(2==add(1,1)){
-            System.out.println("校验通过");
+            System.out.println("1校验通过");
         }
         else{
-            System.out.println("校验失败");
+            System.out.println("2校验失败");
         }
 
     }
