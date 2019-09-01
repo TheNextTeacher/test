@@ -6,7 +6,7 @@ public class TestDemo {
     public int add(int i,int j){
         int m;
         m=i+j;
-        return m/0;
+        return m;
     }
     @Test
     public   void testadd(){

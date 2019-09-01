@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="test.java.com.test.demo.TestDemo" duration-ms="13" started-at="2019-09-01T10:34:59Z" finished-at="2019-09-01T10:34:59Z">
+  <suite name="test.java.com.test.demo.TestDemo" duration-ms="16" started-at="2019-09-01T13:39:21Z" finished-at="2019-09-01T13:39:21Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="13" started-at="2019-09-01T10:34:59Z" finished-at="2019-09-01T10:34:59Z">
+    <test name="Command line test" duration-ms="16" started-at="2019-09-01T13:39:21Z" finished-at="2019-09-01T13:39:21Z">
       <class name="test.java.com.test.demo.TestDemo">
-        <test-method status="PASS" signature="testadd()[pri:0, instance:test.java.com.test.demo.TestDemo@75bd9247]" name="testadd" duration-ms="5" started-at="2019-09-01T18:34:59Z" finished-at="2019-09-01T18:34:59Z">
+        <test-method status="PASS" signature="testadd()[pri:0, instance:test.java.com.test.demo.TestDemo@75bd9247]" name="testadd" duration-ms="5" started-at="2019-09-01T21:39:21Z" finished-at="2019-09-01T21:39:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testadd -->
